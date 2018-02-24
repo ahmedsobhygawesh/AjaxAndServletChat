@@ -1,0 +1,74 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Feb 23, 2018, 1:57:37 PM
+    Author     : ahmedelgawesh
+*/
+
+/*body*/
+
+#onlineDiv
+{
+    float: right;
+
+  -webkit-box-sizing: content-box;
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+  width: 200px;
+  height: 300px;
+  border: 2px;
+  font: normal 16px/1 "Times New Roman", Times, serif;
+  color: darkblue;
+  text-align: center;
+  -o-text-overflow: ellipsis;
+  text-overflow: ellipsis;
+  -webkit-box-shadow: 0 1px 18px 3px rgba(0,150,255,0.91) inset;
+  box-shadow: 0 1px 18px 3px rgba(0,150,255,0.91) inset;
+}
+
+body{
+    
+    background-image: url(Amazing-Blurred-Wallpaper.jpg);
+}
+
+a{
+    
+    float: right;
+}
+
+table {
+    border-collapse: collapse;
+    width: 40%;
+    float: left;
+    margin-left: 30px;
+}
+
+th, td {
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even){background-color: #f2f2f2}
+
+th {
+    background-color: #4CAF50;
+    color: white;
+}
+
+
+/* login style*/
+.loginStyle
+{
+    
+}
+
+
+/*register style*/
+.registerStyle
+{
+    
+    margin-top: 70px;
+}
